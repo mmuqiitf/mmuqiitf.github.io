@@ -132,7 +132,7 @@ hr {
         margin-left: 20px;
     }
     .contact-item{
-        padding-left: 200px;
+        padding-left: 20px;
     }
 }
 /*
@@ -1061,6 +1061,7 @@ figure img{
 
 .contact-item {
     margin-top: 30px;
+    width: 100%;
 }
 
 .contact-item ul {
@@ -1158,7 +1159,7 @@ footer {
     width: auto;
 }
 
-.lines {
+.line {
     margin: 0 auto;
     width: 320px;
     padding: 20px;
@@ -1190,7 +1191,7 @@ i {
     margin-right: 20px;
 }
 
-.lines h1 {
+.line h1 {
     font-weight: 700;
     color: #fff;
 }
